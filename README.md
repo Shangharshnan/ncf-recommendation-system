@@ -37,12 +37,13 @@ User / Client
 
 ## Tech Stack
 - Language: Python
+- Deep Learning Framework: PyTorch
 - Model: Deep Neural Collaborative Filtering (NCF)
 - Backend: Flask (REST API)
 - Database: PostgreSQL / MySQL
 - Data Processing: Pandas
 - Deployment: Docker
-- Serialization: Pickle
+- Model Serialization: PyTorch (`.pt`) / Pickle
 
 ## Implementation Plan
 - Phase 1: Dataset preparation and baseline NCF model

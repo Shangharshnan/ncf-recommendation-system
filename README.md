@@ -1,9 +1,10 @@
 # Recommendation System Architecture – NCF
 
 ## Overview
-This project presents the design and planned implementation of an end-to-end recommendation system using
-Neural Collaborative Filtering (NCF) to model non-linear user–item interactions. The system is designed
-to serve real-time recommendations through a RESTful API and support scalable deployment.
+This project implements a **Neural Collaborative Filtering (NCF) recommendation system** using Python and PyTorch.  
+It predicts user-item interactions using deep learning and demonstrates skills in **machine learning, Flask API, and Docker deployment**.
+
+**Note:** This project is under active development. Current repo contains architecture, design, and partial implementation. Sample scripts are included to showcase functionality.
 
 ## Problem Statement
 Traditional collaborative filtering methods struggle to capture complex, non-linear user-item
